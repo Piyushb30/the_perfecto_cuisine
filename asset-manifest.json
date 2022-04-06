@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/the_perfecto_cuisine/static/css/main.38929e40.css",
+    "main.js": "/the_perfecto_cuisine/static/js/main.1acc8459.js",
+    "index.html": "/the_perfecto_cuisine/index.html",
+    "main.38929e40.css.map": "/the_perfecto_cuisine/static/css/main.38929e40.css.map",
+    "main.1acc8459.js.map": "/the_perfecto_cuisine/static/js/main.1acc8459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38929e40.css",
+    "static/js/main.1acc8459.js"
+  ]
+}
